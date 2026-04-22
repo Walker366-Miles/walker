@@ -624,7 +624,7 @@ h1, h2, h3, h4, h5 { font-family: 'Syne', sans-serif; line-height: 1.2; }
   box-shadow: 0 16px 40px rgba(0,0,0,0.3);
 }
 
-.testimonial-stars { margin-bottom: 14px; }
+.testimonial-stars { margin-bottom: 14px; color:#ffd54f; }
 
 .testimonial-text {
   color: var(--text-muted);
