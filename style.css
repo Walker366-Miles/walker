@@ -846,7 +846,7 @@ h1, h2, h3, h4, h5 { font-family: 'Syne', sans-serif; line-height: 1.2; }
   .earn-inner,
   .app-inner { grid-template-columns: 1fr; gap: 40px; }
 
-  .hero-image { order: -1; }
+  .hero-image { order: 1; }
   .earn-image { order: -1; }
   .app-image  { order: -1; }
 
